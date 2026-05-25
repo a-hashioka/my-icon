@@ -8,8 +8,8 @@ BACKGROUND_WHITE = (255, 255, 255)
 MODERN_COLORS = {"black": (0, 0, 0)}
 
 # Default Animation Configuration
-FPS = 60
-DEFAULT_DURATION_SEC = 1
+FPS = 30
+DEFAULT_DURATION_SEC = 0.5
 INITIAL_TILT_DEG = 30  # Matches create_ico.py default
 ROTATION_TOTAL = 180  # Total rotation over the entire duration (degrees)
 
