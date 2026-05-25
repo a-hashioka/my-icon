@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specific outputs
+*.ico
+*.png
+*.webp
+*.jpg
+*.jpeg
+
+# Except for the one in the repo if it's meant to be there, 
+# but usually it's better to keep the repo clean.
+# I will keep icon.webp for now if the user didn't say otherwise, 
+# but standard practice is to ignore generated files.
